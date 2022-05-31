@@ -185,7 +185,7 @@ if choice == "Grammar":
 
         # Third Grammar Quiz
 
-        print("What is ' A italian language?'")
+        print("What is ' A ' in italian language?")
         choose = input('1. A simple preposition; 2. A verb; 3. A unfined verb: ')
 
         if choose == 'A simple preposition':
@@ -201,4 +201,4 @@ if choice == "Grammar":
 
     grammar_quiz()
 
-print("Thank you for playing thisquiz game")
+print("Thank you for playing this quiz game")
